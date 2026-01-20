@@ -50,5 +50,5 @@ This project demonstrates my ability to use SQL for real-world data analysis and
 
 ---
 
-📌 *Created by Sahil Bhojane*
+*Created by Aryan Meher*
 
